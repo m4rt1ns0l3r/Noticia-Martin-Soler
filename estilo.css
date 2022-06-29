@@ -1,0 +1,115 @@
+@import url(https://fonts.googleapis.com/css2?family=Staatliches&display=swap);
+
+.Todo {
+    background-image: url(assets/img/Ladrillos-fondo.png);
+    background-size: cover;
+    padding-bottom: 100px;
+}
+
+.encabezado {
+    background-image: url(assets/img/Wallpaper-mario.png);
+    background-size: cover;
+    height: 200px;
+    box-shadow: 0px 5px 20px;
+}
+
+.encabezado h1 {
+    margin: 0px;
+    padding-top: 130px;
+    padding-left: 70px;
+    font-family: 'Staatliches', cursive;
+    font-size: 45px;
+    size-adjust: cover;
+    text-shadow: 4px 4px white;
+}
+
+.bajadadetitulo {
+    margin-left: 420px;
+}
+
+.bajadadetitulo h2 {
+    margin: 0px auto;
+    padding-top: 20px;
+    font-family: 'Staatliches', cursive;
+    font-size: 30px;
+}
+
+.bajadadetitulo h5 {
+    font-weight: lighter;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 12px;
+    margin: 10px 50px 40px;
+}
+
+.primerparrafo {
+    width: 550px;
+    margin: 0px auto 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+
+.chrispratt {
+    box-shadow: 0px 5px 10px 0px;
+    height: 180px;
+    margin: 0px 423px;
+}
+
+.cuerpo {
+    width: 550px;
+    margin: 60px auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+
+blockquote {
+    display: block;
+    font-size: large;
+    font-style: italic;
+    font-stretch: expanded;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: maroon;
+    padding: 30px;
+}
+
+.pregunta {
+    margin: 20px 150px;
+}
+
+.lista {
+    margin: 50px 0px 70px;
+}
+
+.gente {
+    color: maroon;
+    padding-left: 100px;
+    font-weight: bold;
+}
+
+.hs {
+    height: 135px;
+    margin-top: 5px;
+    box-shadow: 0px 5px 10px;
+}
+
+.m {
+    height: 135px;
+    box-shadow: 0px 5px 10px;
+}
+
+.creditos {
+    width: 550px;
+    height: auto;
+    margin: 60px auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    font-size: x-small;
+}
+
+footer {
+    background-image: url(assets/img/Wallpaper-amarillo.png);
+    background-size: cover;
+    margin: 0px;
+    padding: 30px 300px 70px;
+    height: 40px;
+    box-shadow: 0px 0px 20px 1px;
+}
